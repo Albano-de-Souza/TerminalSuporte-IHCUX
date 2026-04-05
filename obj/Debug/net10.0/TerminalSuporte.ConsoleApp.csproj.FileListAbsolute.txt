@@ -1,0 +1,14 @@
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.AssemblyInfo.cs
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alban\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.exe
+C:\Users\alban\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.deps.json
+C:\Users\alban\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.runtimeconfig.json
+C:\Users\alban\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.dll
+C:\Users\alban\TerminalSuporte.ConsoleApp\bin\Debug\net10.0\TerminalSuporte.ConsoleApp.pdb
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.dll
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\refint\TerminalSuporte.ConsoleApp.dll
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.pdb
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\TerminalSuporte.ConsoleApp.genruntimeconfig.cache
+C:\Users\alban\TerminalSuporte.ConsoleApp\obj\Debug\net10.0\ref\TerminalSuporte.ConsoleApp.dll
